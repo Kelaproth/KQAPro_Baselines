@@ -1,0 +1,632 @@
+Bridget Jones's Diary,exploitation visa number,129586	no
+?e_37,instance of,human	?e_37,ISNI,0000 0001 2127 5298	?e_37,Libris-URI,wt79b93f2hk48sc	no
+?e_55,instance of,human	?e_55,influenced by,Roscoe Arbuckle	?e_55,birth name,Stefani Joanne Angelina Germanotta	no
+Christian Bale,ISNI,0000 0000 3999 5798	no
+?e_77,instance of,private school	William Morris,educated at,?e_77	William Morris,country of citizenship,United Kingdom	?e_77,ISNI,0000 0001 0010 9610	yes
+?e_80,instance of,animated feature film	?e_80,title,ואלס עם באשיר	?e_80,official website,http://www.west-chester.com	no
+John Ratzenberger,ISNI,0000 0001 2096 7890	no
+?e_110,instance of,unisex given name	Lynn Redgrave,given name,?e_110	?e_110,Cologne phonetics,56	yes
+Chris Thile,official website,http://www.comedycentral.com/	no
+?e_124,instance of,city of the United States	?e_124,postal code,65800–65899	?e_124,ISNI,0000 0004 4661 4753	yes
+?e_126,instance of,film	?e_126,cast member,Blake Edwards	?e_126,title,The Best Years of Our Lives	yes
+?e_155,instance of,city	Cebu,contains administrative territorial entity,?e_155	?e_155,Philippine Standard Geographic Code,072200000	no
+iHeartMedia,ISNI,0000 0000 9428 6708	yes
+?e_199,instance of,visual artwork	?e_199,follows,Scary Movie 4	?e_199,title,Albert Nobbs	no
+?e_204,instance of,city of the United States	?e_204,location,Chicago metropolitan area	?e_204,postal code,53140–53144	yes
+Liliaceae,GRIN URL,https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=652	yes
+?e_218,instance of,type of sport	Atlanta Braves,sport,?e_218	?e_218,IAB code,1038	no
+?e_242,instance of,film festival	Midnight's Children,film regional debut venue,?e_242	Midnight's Children,film release region,Canada	?e_242,official website,http://www.tiff.net/	yes
+Sheryl Crow,official website,http://www.hawaiicounty.gov/	no
+?e_406,instance of,human	?e_406,CANTIC-ID,a10058618	?e_406,Libris-URI,rp3572f958fk2g8	no
+Richard E. Grant,official website,http://www.richard-e-grant.com	yes
+Charles Laughton,ISNI,0000 0000 8159 1906	no
+?e_440,instance of,human	?e_440,Instagram username,tarajiphenson	?e_440,ISNI,0000 0000 7826 4891	yes
+?e_455,instance of,city	Andrea Romano,place of birth,?e_455	Andrea Romano,country of citizenship,Italy	?e_455,UN/LOCODE,ITFRR	no
+Associazione Sportiva Livorno Calcio,official website,http://www.brokebackmountain.com	no
+The Mickey Mouse Club,official website,http://www.thehugoawards.org/	no
+Patrick Gallagher,ISNI,0000 0001 1934 4434	yes
+?e_623,instance of,human	Rajendra Nath,relative,?e_623	?e_623,official website,http://warp.net/aphex-twin	no
+You Can Count on Me,title,You Can Count on Me	yes
+?e_629,instance of,human	?e_629,CANTIC-ID,a11795840	?e_629,official website,http://www.joaquin-phoenix.net/index2.html	yes
+?e_659,instance of,city	?e_659,TOID,4000000074562880	?e_659,local dialing code,01903	no
+?e_667,instance of,sport discipline	?e_667,IPTC Newscode,mediatopic/20001152	?e_667,official website,http://moniqueworldwide.org/	no
+?e_672,instance of,human	?e_672,ISNI,0000 0000 7139 3797	?e_672,Twitter username,seoulmania	no
+Greg Graffin,Twitter username,TeriPolo1	no
+?e_695,instance of,college of the University of Oxford	?e_695,official name,The Provost and Scholars of The Queen's College in the University of Oxford	?e_695,IPv4 routing prefix,129.67.180.0/22	yes
+?e_730,instance of,chemical element	?e_730,chemical formula,Se	?e_730,PubChem CID,444899	no
+?e_745,instance of,higher education institution	Lawrence Gordon,educated at,?e_745	?e_745,official website,http://www.srilankacricket.lk	no
+Calcio Padova,official website,http://www.padovacalcio.it/	yes
+?e_825,instance of,human	?e_825,KLG Kritisches Lexikon der Gegenwartsliteratur,16000000140	?e_825,name in native language,Salman Rushdie	no
+?e_871,instance of,town	?e_871,WOEID,13383	?e_871,FIPS 10-4 (countries and regions),UKL3	no
+?e_875,instance of,band	?e_875,ISNI,0000 0001 2152 0943	?e_875,official website,http://www.usaforafrica.org/	yes
+?e_882,instance of,association football club	?e_882,nickname,Κάουντι	?e_882,Twitter username,ElizabethMcGov	no
+?e_891,instance of,human	?e_891,Twitter username,ChadHugo	?e_891,ISNI,0000 0001 1442 8137	yes
+Waukesha,postal code,53188	yes
+?e_962,instance of,county of Ohio	?e_962,headquarters location,Sandusky	?e_962,FIPS 6-4 (US counties),39043	yes
+?e_988,instance of,school	David Foster,educated at,?e_988	David Foster,occupation,screenwriter	?e_988,Instagram username,harvardmed	yes
+Waitakere United,official website,http://www.waitakereunited.co.nz/	yes
+?e_1054,instance of,human	The Challenge,screenwriter,?e_1054	The Challenge,cast member,Scott Glenn	?e_1054,Munzinger IBA,00000014786	no
+?e_1094,instance of,area of London	Jerome Flynn,place of birth,?e_1094	?e_1094,postal code,10027	no
+Hereafter,director,Clint Eastwood	Clint Eastwood,ISNI,0000 0001 2141 6361	yes
+Levadiakos F.C.,official website,http://www.domino-lefilm.com/	no
+?e_1140,instance of,human	?e_1140,Munzinger IBA,00000020658	?e_1140,birth name,William Denby Hanna	no
+?e_1141,instance of,film	?e_1141,official website,http://saw3dmovie.com/	?e_1141,exploitation visa number,122373	no
+Tom Wolfe,Munzinger IBA,00000019309	yes
+?e_1150,instance of,human	The Human Stain,director,?e_1150	The Human Stain,genre,drama film	?e_1150,ISNI,0000 0001 0920 3515	yes
+Emily Osment,CANTIC-ID,a11055054	yes
+?e_1172,instance of,capital	?e_1172,demonym,Tehrani,applies to part,male	?e_1172,native label,Charlotte	no
+Elias Koteas,name in native language,Elias Koteas	yes
+Ben Elton,ISNI,0000 0001 1645 4216	no
+?e_1189,instance of,organization	?e_1189,ISNI,0000 0004 1759 4124	?e_1189,official website,https://www.churchofengland.org/	yes
+?e_1193,instance of,human	?e_1193,CANTIC-ID,a11573351	?e_1193,ISNI,0000 0001 0934 7471	yes
+?e_1230,instance of,play	Richard III,depicts,?e_1230	Richard III,original language of film or TV show,Latin	?e_1230,title,Sherlock Holmes: A Game of Shadows	no
+?e_1233,instance of,state of India	Manipur,shares border with,?e_1233	Manipur,Indian census area code (2001),14	?e_1233,FIPS 10-4 (countries and regions),IN03	yes
+?e_1236,instance of,human	Toy Story,film release region,Sweden	Toy Story,voice actor,?e_1236,character role,Buzz Lightyear	?e_1236,pseudonym,Cliff Richard	no
+Tia Carrere,official website,http://www.clackamas.us	no
+Art Center College of Design,official website,https://web.archive.org/web/20080509170447/http://www.xmenthelaststanddvd.com/	no
+?e_1365,instance of,human	Ferris Bueller's Day Off,director of photography,?e_1365	?e_1365,ISNI,0000 0001 2124 1960	no
+?e_1375,instance of,county of California	Brisbane,located in the administrative territorial entity,?e_1375	Brisbane,shares border with,Oakland	?e_1375,Dewey Decimal Classification,2--74734	no
+Veronica Mars,cast member,Bob Gunton	Veronica Mars,title,Mar adentro	no
+?e_1429,instance of,human	Psycho,composer,?e_1429	Psycho,film release region,Hungary	?e_1429,Libris-URI,31fhk79m1hf3bd0	yes
+?e_1510,instance of,human	American Pie,cast member,?e_1510	American Pie 2,part of the series,American Pie	?e_1510,CANTIC-ID,a11513949	yes
+?e_1511,instance of,human	?e_1511,official website,http://www.hackettsongs.com/	?e_1511,ISNI,0000 0000 8160 7410	yes
+Heisman Trophy,native label,Helsingfors universitet	no
+?e_1590,instance of,city of the United States	?e_1590,official website,http://www.springfieldma.gov/	?e_1590,local dialing code,563	no
+?e_1600,instance of,higher education institution	Dick Clark,educated at,?e_1600	Dick Clark,member of political party,Democratic Party	?e_1600,Name Assigning Authority Number,81981	yes
+?e_1676,instance of,human	?e_1676,ISNI,0000 0000 7824 5666	?e_1676,Twitter username,Corey_Feldman	yes
+Barbra Streisand,birth name,Barbara Joan Streisand	yes
+Watford F.C.,Instagram username,schwarzenegger	no
+?e_1783,instance of,agent	?e_1783,award received,66th Tony Awards	?e_1783,official website,https://english.ajax.nl/streams/ajax-now.htm	no
+Pontifical Gregorian University,official website,http://www.unigre.it	yes
+United States Navy,ISNI,0000 0001 2182 2167	no
+Louis XIV of France,CANTIC-ID,a10979785	yes
+?e_1883,instance of,shooter game	Terminator Salvation,genre,?e_1883	Terminator Salvation,genre,light gun shooter	?e_1883,OLAC video game genre vocabulary,1042	yes
+?e_1884,instance of,higher education institution	Jamie Cullum,educated at,?e_1884	?e_1884,official website,http://www.reading.ac.uk/	yes
+?e_1898,instance of,human	?e_1898,Twitter username,ashleyjudd	?e_1898,official website,http://ashleyjudd.com/	yes
+?e_1922,instance of,television station	South Park,distributor,?e_1922	South Park,platform,Microsoft Windows	?e_1922,Instagram username,comedycentral	yes
+Invasion of Normandy,location,Normandy	Normandy,native label,Normandie	yes
+?e_1992,instance of,state of the United States	?e_1992,FIPS 5-2 alpha code (US states),FL	?e_1992,ISO 3166-2 code,US-SD	no
+?e_2013,instance of,basketball team	?e_2013,Twitter username,SacramentoKings	?e_2013,official website,http://www.nba.com/kings/	yes
+?e_2021,instance of,human	?e_2021,CANTIC-ID,a11326438	?e_2021,Munzinger IBA,00000016263	no
+Boyz II Men,Instagram username,tigers	no
+?e_2039,instance of,human	?e_2039,Twitter username,JennifersWayJE	?e_2039,ISNI,0000 0003 6846 8884	no
+sumo,RIA Novosti reference,51222211	no
+Northrop Grumman,ISIN,JP3778630008	no
+Christopher Young,official website,http://www.christopher-young.com	yes
+?e_2077,instance of,town	Richard Hammond,place of birth,?e_2077	?e_2077,official website,http://www.snowwhiteandthehuntsman.com	no
+?e_2086,instance of,baseball team	?e_2086,located in the administrative territorial entity,Cincinnati	?e_2086,Twitter username,gomvfc	no
+?e_2114,instance of,MTV Video Music Award	?e_2114,winner,Sting	Sting,occupation,musician	?e_2114,official website,http://www.mtv.com/ontv/vma/	yes
+?e_2117,instance of,university	?e_2117,IPv4 routing prefix,88.96.178.32/29	?e_2117,ISNI,0000 0001 0654 4242	no
+?e_2128,instance of,human	?e_2128,place of birth,Jefferson City	?e_2128,ISNI,0000 0000 0314 7391	yes
+Club Universitario de Deportes,Twitter username,Universitario	yes
+?e_2151,instance of,film production company	?e_2151,official website,http://www.europacorp.com/	?e_2151,SIREN number,215403957	no
+?e_2162,instance of,human	Babylon 5: The Gathering,screenwriter,?e_2162	?e_2162,ISNI,0000 0001 1032 8163	yes
+?e_2163,instance of,film	?e_2163,exploitation visa number,57759	?e_2163,title,Eduardo Manostijeras	no
+?e_2179,instance of,human	?e_2179,ISNI,0000 0000 7779 2799	?e_2179,name in native language,Kevin Clash	yes
+Baruch Spinoza,CANTIC-ID,a11004629	no
+?e_2222,instance of,human	?e_2222,ISNI,0000 0001 1665 6934	?e_2222,official website,http://www.tournamentofroses.com/rosebowlgame/	no
+American International Group,official name,横浜市	no
+Judd Hirsch,Deutsche Synchronkartei actor-ID,4466	no
+?e_2316,instance of,county of Pennsylvania	Harrisburg,located in the administrative territorial entity,?e_2316	?e_2316,FIPS 6-4 (US counties),51131	no
+?e_2359,instance of,human	Pirates of the Caribbean: At World's End,country of origin,United States of America	Pirates of the Caribbean: At World's End,cast member,?e_2359,character role,Cutler Beckett	?e_2359,ISNI,0000 0000 7982 3122	no
+Taxi Driver,narrative location,Mumbai	Taxi Driver,title,Anger Management	no
+?e_2362,instance of,human	The Lion King,film release region,Italy	The Lion King,film crew member,?e_2362,series ordinal,20	?e_2362,Twitter username,metallica	no
+?e_2371,instance of,film	?e_2371,voice actor,Grey DeLisle	?e_2371,title,The Office	no
+?e_2380,instance of,rock band	Little Women,cast member,?e_2380	Little Women,executive producer,David O. Selznick	?e_2380,ISNI,0000 0001 2375 8787	yes
+Indiana University of Pennsylvania,located at street address (DEPRECATED),400 Ray C. Hunt Drive	no
+dentistry,IPTC Newscode,mediatopic/20000712	yes
+?e_2510,instance of,association football club	?e_2510,official website,http://www.bocajuniors.com.ar/	?e_2510,Twitter username,milesdavis	no
+egg,UNII,4ELV7Z65AP	no
+?e_2524,instance of,human	?e_2524,ISNI,0000 0001 2148 628X	?e_2524,pseudonym,John Denver	no
+Skagit County,official website,http://www.skagitcounty.net	yes
+?e_2613,instance of,human	?e_2613,birth name,James Francis Cagney	?e_2613,Libris-URI,20dgk2vl1g9rnzp	yes
+?e_2625,instance of,beauty contest	?e_2625,Instagram username,missuniverse	?e_2625,Twitter username,thatkevinsmith	no
+Marcel Proust,British Museum person-institution,134912	yes
+?e_2682,instance of,film	?e_2682,cast member,Billy Ray Cyrus	?e_2682,title,The Simpsons	no
+?e_2684,instance of,human	?e_2684,nickname,Ørkenreven	?e_2684,ISNI,0000 0001 2276 8510	yes
+?e_2708,instance of,higher education institution	?e_2708,located at street address,158 Harmon Drive and Northfield and VT and 05663-1035	?e_2708,located at street address,150 E Tenth St and Claremont and CA and 91711-6160	no
+Claudia Cardinale,ISNI,0000 0000 9857 7502	no
+?e_2724,instance of,film	?e_2724,screenwriter,Bam Margera	?e_2724,title,The Santa Clause 3: The Escape Clause	no
+?e_2727,instance of,university	Ian Fleming,educated at,?e_2727	Ian Fleming,CANTIC-ID,a11435719	?e_2727,Giphy username,shaniatwain	no
+?e_2754,instance of,human	Karl Marx,influenced by,?e_2754	Karl Marx,occupation,economist	?e_2754,CANTIC-ID,a10418271	yes
+?e_2763,instance of,human	?e_2763,sport,golf	?e_2763,Deutsche Synchronkartei actor-ID,454	no
+?e_2777,instance of,ceremonial county of England	?e_2777,capital,Leicester	?e_2777,FIPS 10-4 (countries and regions),US05	no
+Al-Hilal FC,official website,http://itthemovie.com	no
+Mona Marshall,official website,http://www.monamarshall.net/MonaMarshallHOME.html	yes
+Sony Pictures,official website,http://www.usc.edu/	no
+Edward Zwick,ISNI,0000 0000 9859 0969	no
+Michael Ballhaus,Munzinger IBA,00000021023	yes
+?e_2897,instance of,human	James Fox,sibling,?e_2897	United 93,cast member,James Fox	?e_2897,birth name,Martin Marcantonio Luciano Scorsese	no
+Antony Sher,ISNI,0000 0001 1479 5658	no
+?e_2921,instance of,written work	?e_2921,director,Lewis Gilbert	Lewis Gilbert,occupation,screenwriter	?e_2921,ISBN-10,84-663-0903-9	yes
+?e_2926,instance of,crime	?e_2926,ICD-9,E960.1	?e_2926,eMedicine,1001602	no
+?e_2929,instance of,type of sport	?e_2929,IPTC Newscode,mediatopic/20001064	?e_2929,IAB code,1058	no
+?e_2976,instance of,film genre	?e_2976,title,Chicken Run	?e_2976,exploitation visa number,111753	no
+species,OSM tag or key,Tag:denomination=evangelical	no
+?e_3035,instance of,higher education institution	?e_3035,official color,black	?e_3035,Instagram username,ucf.edu	yes
+?e_3079,instance of,human	?e_3079,child,Emma Roberts	?e_3079,official website,http://www.ericrobertsactor.com/	yes
+?e_3091,instance of,human	?e_3091,nominated for,BAFTA Award for Best Film,for work,Aparajito	?e_3091,Google Doodle,satyajit-rays-92nd-birthday	yes
+?e_3096,instance of,ceremonial county of England	Grimsby,located in the administrative territorial entity,?e_3096	Grimsby,official name,Grimsby	?e_3096,ISO 3166-2 code,PL-PM	no
+Pohang Steelers,McCune-Reischauer romanization,P'ohang Suteelesu	yes
+Albert Brooks,Twitter username,AlbertBrooks	yes
+?e_3124,instance of,ceremonial county of England	?e_3124,NUTS code,UKH23	?e_3124,ISO 3166-2 code,IT-42	no
+?e_3178,instance of,video game developer	?e_3178,ISIN,US8724434035	?e_3178,PermID,4295903341	no
+?e_3187,instance of,county town	?e_3187,postal code,DT1	?e_3187,local dialing code,08948	no
+track cycling,official website,https://www.olympic.org/athens-2004	no
+Lupe Fiasco,Instagram username,acmilan	no
+Beastie Boys,filming location,Seoul	Beastie Boys,official website,http://www.beastieboys.co.kr	yes
+RKC Waalwijk,short name,RKC Waalwijk	yes
+Beaver County,shares border with,Butler County	Butler County,official website,http://www.skillet.com	no
+?e_3309,instance of,city of the United States	Marshall University,located in the administrative territorial entity,?e_3309	?e_3309,local dialing code,304	yes
+Andy Richter,ISNI,0000 0001 0802 6780	no
+Hellas Verona F.C.,official website,https://www.moldefk.no/	no
+?e_3424,instance of,town	Kevin Betsy,place of birth,?e_3424	?e_3424,postal code,GU21 and GU22	yes
+?e_3431,instance of,city of the United States	Yahoo,location of formation,?e_3431	?e_3431,postal code,94085	yes
+Golders Green Crematorium,National Heritage List for England number,1066236,applies to part,cemetery	no
+?e_3505,instance of,county town	Alan Turing,residence,?e_3505	?e_3505,official name,Lucca	no
+?e_3523,instance of,human	The Scarlet Letter,screenwriter,?e_3523	The Scarlet Letter,country of origin,Spain	?e_3523,Libris-URI,53hlp91p3dd6dhb	no
+?e_3528,instance of,higher education institution	?e_3528,official website,https://www.cardiff.ac.uk/	?e_3528,ARCHON code,3121	no
+Murfreesboro,official website,http://www.murfreesborotn.gov/	yes
+?e_3558,instance of,human	Stand by Me,producer,?e_3558	Stand by Me,genre,rhythm and blues	?e_3558,Libris-URI,0xbfk1kj4d24m4z	yes
+?e_3570,instance of,art school	Andy Richter,educated at,?e_3570	?e_3570,official website,http://www.audreyhepburn.com	no
+?e_3582,instance of,award ceremony	2003 Grammy Awards,followed by,?e_3582	?e_3582,edition number,25	no
+63rd Primetime Emmy Awards,edition number,66	no
+Lions Gate Entertainment,ISNI,0000 0001 1551 1354	yes
+?e_3612,instance of,human	?e_3612,educated at,primary school,location,Eugene	?e_3612,name in native language,Paul M. Simon	yes
+?e_3638,instance of,film	?e_3638,cast member,Jeff Bennett	Jeff Bennett,languages spoken and written or signed,English	?e_3638,title,Vera Drake	no
+Huntsville,shares border with,Decatur	Decatur,local dialing code,256	yes
+?e_3651,instance of,university	?e_3651,located at street address (DEPRECATED),1 University Circle and Monterey and CA and 93943	?e_3651,official website,http://www.wthefilm.com/	no
+?e_3692,instance of,basketball team	?e_3692,located in the administrative territorial entity,Washington	?e_3692,official website,http://kings.nhl.com/	no
+Jaime Pressly,official website,https://www.braunschweig.de/politik_verwaltung/statistik	no
+Brescia Calcio,official website,http://www.cranstonri.com	no
+Chris Isaak,Instagram username,chrisisaak	yes
+?e_3768,instance of,school	?e_3768,headquarters location,New York City,located at street address (DEPRECATED),630 West 168th Street	?e_3768,official website,http://ps.columbia.edu/	yes
+?e_3772,instance of,land vehicle	?e_3772,use,rail transport	?e_3772,MIL-STD-2525 Symbol Identification Code,10014000001604000000	no
+?e_3777,instance of,human	Homeland,creator,?e_3777	?e_3777,ISNI,0000 0000 7882 0827	no
+Runaway Jury,title,The Men Who Stare at Goats	no
+Westminster Abbey,ARCHON code,119	yes
+?e_3848,instance of,human	?e_3848,medical condition,diabetes mellitus	?e_3848,birth name,J. R. Cash	yes
+?e_3863,instance of,Academy Awards ceremony	Dorothy Malone,award received,?e_3863	?e_3863,edition number,64	no
+?e_3886,instance of,city of the United States	Janis Joplin,place of birth,?e_3886	?e_3886,local dialing code,409	yes
+?e_3908,instance of,human	?e_3908,ISNI,0000 0001 2142 1275	?e_3908,Libris-URI,1zcffcqk3xfntr9	no
+Hastings,country,United Kingdom	Hastings,local dialing code,08636	no
+?e_3915,instance of,town	Simon Fuller,place of birth,?e_3915	?e_3915,official website,http://delhi.gov.in/	no
+Colin Powell,ISNI,0000 0001 0858 8433	Colin Powell,birth name,Kumaresan Duraisamy	no
+?e_3927,instance of,Summer Olympic Games	?e_3927,edition number,3	?e_3927,official website,http://www.cm-lisboa.pt/	no
+Mesa,Stack Exchange tag,https://stackoverflow.com/tags/mesa	Mesa,Debian stable package,libgl1-mesa-glx	yes
+?e_3951,instance of,administrative territorial entity	?e_3951,British Museum person-institution,168235	?e_3951,official website,http://www.camden.gov.uk/	yes
+Borussia Dortmund,official website,http://www.shenhuafc.com.cn/	no
+Delft,postal code,2600–2629	yes
+?e_4057,instance of,human	King's College London,founded by,?e_4057	?e_4057,ISNI,0000 0001 2147 991X	no
+?e_4066,instance of,film	?e_4066,title,Fast Food Nation	?e_4066,official website,http://www.foxsearchlight.com/fastfoodnation/	yes
+?e_4069,instance of,visual artwork	?e_4069,voice actor,Don Messick	?e_4069,title,Beginners	no
+?e_4079,instance of,human	?e_4079,work location,New York	X2,narrative location,New York	?e_4079,ISNI,0000 0001 2130 3885	yes
+?e_4096,instance of,human	?e_4096,member of,Nine Inch Nails	?e_4096,Twitter username,trent_reznor	yes
+Duke University,Name Assigning Authority Number,88117	no
+?e_4108,instance of,human	?e_4108,award received,Academy Award for Best Supporting Actress,statement is subject of,19th Academy Awards	?e_4108,Munzinger IBA,00000029444	no
+?e_4117,instance of,city	?e_4117,named after,Jesus Christ	?e_4117,postal code,40000-000	yes
+Stoke-on-Trent,NUTS code,FR61	no
+Houston Astros,Twitter username,DB30th	no
+?e_4153,instance of,city of New York	?e_4153,office held by head of government,councillor	?e_4153,local dialing code,01522	no
+?e_4158,instance of,city	Hunan,shares border with,?e_4158	?e_4158,FIPS 10-4 (countries and regions),SM	no
+Virgin Records,short name,Virgin	yes
+?e_4199,instance of,product	?e_4199,IPTC Newscode,mediatopic/20000245	?e_4199,Iconclass notation,41D2	yes
+?e_4200,instance of,human	?e_4200,ISNI,0000 0001 1478 7340	?e_4200,Deutsche Synchronkartei actor-ID,8951	yes
+Radcliffe College,ISNI,0000 0000 5550 969X	no
+Queen,producer,Anurag Kashyap	Queen,official website,http://www.queenthefilm.com	yes
+Al-Hilal FC,official website,http://stevenseagal.com/	no
+Beetlejuice,official website,http://www.jollydwarf.com/	Beetlejuice,Twitter username,projectrunway	no
+?e_4278,instance of,administrative territorial entity	Kirkcaldy,located in the administrative territorial entity,?e_4278	?e_4278,official website,http://www.fife.gov.uk/	yes
+It's a Mad and Mad and Mad and Mad World,title,The Robe	no
+Leicester,TOID,4000000074560267	yes
+?e_4319,instance of,writer	Paul Auster,occupation,?e_4319	?e_4319,ROME Occupation Code (v3),C1503	no
+Michelle Williams,member of,Destiny's Child	Michelle Williams,ISNI,0000 0001 2359 3951	no
+Carole Bayer Sager,Twitter username,ianmcneice1950	no
+House of Romanov,Dewey Decimal Classification,150	no
+?e_4335,instance of,disease	?e_4335,UMLS CUI,C0038436	?e_4335,ICD-10-CM,C34.1,medical condition,acute disease	no
+Blondie,color,black-and-white	Blondie,title,Coronado	no
+?e_4385,instance of,language	Akshay Kumar,native language,?e_4385	?e_4385,Wikimedia language code,en-ca	no
+?e_4418,instance of,city	?e_4418,local dialing code,080	?e_4418,Dewey Decimal Classification,2--796	no
+Meat Loaf,pseudonym,Kris	no
+?e_4452,instance of,television film	?e_4452,cast member,Charlotte Rampling	?e_4452,title,Jackass Number Two	no
+?e_4453,instance of,association football club	?e_4453,official website,http://www.svried.at/	?e_4453,Twitter username,Jon_Favreau	no
+Kulbhushan Kharbanda,ISNI,0000 0001 2030 0535	no
+?e_4511,instance of,public university	?e_4511,ISNI,0000 0001 0942 6946	?e_4511,official website,http://www.essex.ac.uk	yes
+?e_4567,instance of,town	?e_4567,WOEID,31889	?e_4567,OS grid reference,SW475306	yes
+?e_4582,instance of,capital	?e_4582,official name,Lausanne	?e_4582,local dialing code,318	no
+?e_4591,instance of,human	?e_4591,name in native language,Lalo Schifrin	?e_4591,official website,http://www.royalacademy.org.uk	no
+Crimes and Misdemeanors,title,Styx	no
+?e_4626,instance of,human	?e_4626,ISNI,0000 0001 1547 3722	?e_4626,Twitter username,janemarielynch	yes
+Seth Green,Twitter username,BarackObama	no
+Lars von Trier,Libris-URI,ljx011d434bxx98	yes
+?e_4730,instance of,language	?e_4730,short name,турецька	?e_4730,IAB code,1221	no
+Desperate Housewives,official website,http://tolstoy.ru/	no
+?e_4743,instance of,film	?e_4743,official website,http://www.cameroncrowe.com/eyes_ears/films/almostfamous/almostfamous_overview.html	?e_4743,title,Almost Famous	yes
+?e_4755,instance of,human	?e_4755,ISNI,0000 0000 5516 5305	?e_4755,Twitter username,thedangelo	yes
+?e_4785,instance of,human	?e_4785,Libris-URI,nl024z463cgt1l5	?e_4785,name in native language,黒澤明	yes
+?e_4788,instance of,band	?e_4788,official website,http://www.theblackkeys.com,language of work or name,English	?e_4788,ISNI,0000 0001 0796 4919	no
+?e_4798,instance of,city of the United States	?e_4798,ISNI,0000 0004 0638 8552	?e_4798,Dewey Decimal Classification,2--44584	no
+Robert A. Heinlein,CANTIC-ID,a10136605	no
+Steven Wilson,Twitter username,StevenWilsonHQ	yes
+?e_4829,instance of,rock band	?e_4829,ISNI,0000 0001 0675 264X	?e_4829,official website,http://mpophotohost.com/~mposystems/filehost/oedework/index.html	no
+Dustin Hoffman,ISNI,0000 0001 2138 5710	no
+?e_4859,instance of,administrative territorial entity	Exeter,located in the administrative territorial entity,?e_4859	Exeter,country,United States of America	?e_4859,official website,http://www.northernirelandyears.com	no
+?e_4861,instance of,human	?e_4861,Munzinger IBA,00000016263	?e_4861,ISNI,0000 0001 0802 9148	no
+James Marsters,official website,http://www.nh.gov	no
+?e_4894,instance of,television series	?e_4894,official website,http://news.directv.com/category/damages/	?e_4894,title,Up	no
+John DiMaggio,birth name,John William DiMaggio	yes
+Richard Nixon,birth name,Jonathan Ronald James Forte	no
+?e_4912,instance of,human	?e_4912,educated at,Tennessee State University	?e_4912,Instagram username,prideofgypsies	no
+?e_4925,instance of,human	Taking Woodstock,screenwriter,?e_4925	?e_4925,ISNI,0000 0001 1678 0361	no
+Sarah Brightman,Twitter username,sarahbrightman	yes
+Final Fantasy VII: Advent Children,title,ファイナルファンタジーVII アドベントチルドレン	yes
+?e_4999,instance of,city	?e_4999,postal code,SR5	?e_4999,native label,Sunderland	yes
+?e_5006,instance of,political party	Peter Weir,member of political party,?e_5006	Peter Weir,educated at,Queen's University Belfast	?e_5006,sRGB color hex triplet,B30033	no
+?e_5009,instance of,city	?e_5009,official website,http://www.moncton.org	?e_5009,postal code,E1A-E1G	yes
+Marion Cotillard,Instagram username,caallboysoficial	no
+?e_5040,instance of,city	Peking University,located in the administrative territorial entity,?e_5040	?e_5040,official name,Sheffield Wednesday Football Club	no
+Bury My Heart at Wounded Knee,title,Election	no
+?e_5099,instance of,human	Bram Stoker's Dracula,nominated for,BAFTA Award for Best Special Visual Effects	Bram Stoker's Dracula,cast member,?e_5099,character role,Mina Harker	?e_5099,name in native language,Winona Ryder	yes
+?e_5103,instance of,film	?e_5103,director,Walter Wanger	?e_5103,video,Channel2 - Tel Aviv.webm	no
+MTV Video Music Award for Best Art Direction,official website,http://www.mtv.com/ontv/vma/	yes
+?e_5160,instance of,written work	?e_5160,ISBN-10,2-87929-591-2	?e_5160,ISBN-13,978-91-1-937201-7	no
+?e_5190,instance of,business	?e_5190,industry,marketing	?e_5190,official name,Google	yes
+The Pretenders,ISNI,0000 0001 1568 4335	no
+?e_5207,instance of,liberal arts college in the United States	?e_5207,located at street address (DEPRECATED),1520 St Olaf Ave and Northfield and MN and 55057-1098	?e_5207,located at street address (DEPRECATED),1520 St Olaf Ave and Northfield and MN and 55057-1098	yes
+?e_5250,instance of,human	Wilmer Valderrama,partner,?e_5250	?e_5250,Twitter username,ddlovato	yes
+Dave Mustaine,Instagram username,psg	no
+Sammy Davis Jr.,official website,http://www.cityofpinebluff.com/	no
+?e_5335,instance of,liberal arts college in the United States	?e_5335,located in the administrative territorial entity,Gettysburg	Gettysburg College,located in the administrative territorial entity,Gettysburg	?e_5335,ARCHON code,2041	no
+John Mellencamp,Giphy username,johnmellencamp	yes
+?e_5407,instance of,human	?e_5407,Deutsche Synchronkartei actor-ID,37017	?e_5407,name in native language,रेखा	yes
+?e_5413,instance of,cemetery	?e_5413,religion,Protestantism	?e_5413,e-mail address,mailto:posta@praha.eu	no
+Geffen Records,short name,Югославия	no
+?e_5423,instance of,human	?e_5423,nominated for,Academy Award for Best Actor,for work,It's a Wonderful Life	?e_5423,Munzinger IBA,00000000884	no
+Image Entertainment,official website,http://www.watchimage.com	yes
+?e_5475,instance of,human	Wynton Marsalis,sibling,?e_5475	?e_5475,Twitter username,bmarsalis	yes
+Texarkana,postal code,91040–91043	no
+?e_5511,instance of,human	Miley Cyrus,father,?e_5511	?e_5511,birth name,Paul Thomas Mann	no
+?e_5518,instance of,human	Even Cowgirls Get the Blues,composer,?e_5518	?e_5518,official website,https://www.spd.de/	no
+FX,Giphy username,fx	yes
+?e_5649,instance of,agent	?e_5649,IPv4 routing prefix,52.130.0.0/15	?e_5649,IRS Employer Identification Number,22-1024240	no
+?e_5677,instance of,secretary of state	?e_5677,official website,https://www.state.gov/secretary/index.htm,language of work or name,English	?e_5677,native label,United States Secretary of State	yes
+Teri Garr,ISNI,0000 0000 8161 1516	no
+Richard Schiff,ISNI,0000 0001 0891 9474	no
+?e_5696,instance of,city	Aishwarya Rai,place of birth,?e_5696	?e_5696,local dialing code,824	yes
+?e_5758,instance of,chemical element	?e_5758,Dewey Decimal Classification,546.393	?e_5758,CAS Registry Number,7440-70-2	yes
+?e_5765,instance of,type of sport	New Zealand national cricket team,sport,?e_5765	?e_5765,IAB code,1275	no
+?e_5801,instance of,higher education institution	?e_5801,religion,Lutheranism	?e_5801,Instagram username,valparaiso_university	yes
+?e_5812,instance of,agent	?e_5812,founded by,Victoria	Victoria,name in native language,Victoria	?e_5812,official name,The Royal Victorian Order	yes
+?e_5819,instance of,belief system	Dharmendra,religion,?e_5819	?e_5819,IPTC Newscode,mediatopic/20000667	no
+?e_5820,instance of,higher education institution	?e_5820,official website,http://www.williams.edu	?e_5820,ISNI,0000 0001 2284 9898	yes
+?e_5851,instance of,television channel	News Corporation,owner of,?e_5851	?e_5851,official website,http://www.laurenbacall.com	no
+?e_5860,instance of,human	?e_5860,IPI name number,00046970947,named as,SMITH ROBERT JAMES	?e_5860,official website,http://fc.tps.fi/	no
+?e_5880,instance of,human	This Is England,cast member,?e_5880	?e_5880,ISNI,0000 0001 1613 4343	yes
+Al Gore,Munzinger IBA,00000020356	yes
+?e_5912,instance of,human	?e_5912,relative,Peter Fonda	?e_5912,ISNI,0000 0001 2278 393X	yes
+Charlie Daniels,occupation,guitarist	Charlie Daniels,ISNI,0000 0001 0242 813X	no
+University of Lancaster,located in the administrative territorial entity,Lancaster	Lancaster,postal code,21218-2688	no
+?e_5936,instance of,independent city	?e_5936,official website,http://www.fredericksburgva.gov,language of work or name,English	?e_5936,FIPS 6-4 (US counties),51630	yes
+?e_5943,instance of,city of the United States	Charles S. Dutton,place of birth,?e_5943	?e_5943,PermID,5000391820	yes
+?e_5989,instance of,urban rail transit	?e_5989,OSM tag or key,Tag:railway=subway	?e_5989,Iconclass notation,49E21	no
+David Benioff,official website,http://www.davidbenioff.com/	yes
+Scott Glenn,birth name,Theodore Scott Glenn	yes
+?e_6055,instance of,association football club	?e_6055,Twitter username,TolucaFC	?e_6055,official website,http://www.ob.dk	no
+?e_6094,instance of,human	?e_6094,award received,Academy Award for Best Supporting Actress,statement is subject of,33rd Academy Awards	?e_6094,ISNI,0000 0001 2287 2270	no
+?e_6139,instance of,human	Buffy the Vampire Slayer,cast member,?e_6139,character role,Willow Rosenberg	?e_6139,Instagram username,universitario1924	no
+The Orphanage,title,Four Rooms	no
+?e_6144,instance of,human	?e_6144,place of birth,Norwalk	Norwalk,office held by head of government,mayor	?e_6144,ISNI,0000 0000 7983 4673	no
+?e_6166,instance of,human	?e_6166,place of death,Santa Rosa	?e_6166,CANTIC-ID,a1160864x	no
+?e_6201,instance of,television series	?e_6201,title,The Sopranos	?e_6201,official website,http://www.lonchaney.tk/	no
+Huntington Beach,subreddit,huntingtonbeach	yes
+?e_6206,instance of,human	?e_6206,British Museum person-institution,160508	?e_6206,ISNI,0000 0001 0879 4691	yes
+?e_6300,instance of,human	?e_6300,country for sport,Switzerland	?e_6300,doubles record,49–64	no
+?e_6302,instance of,visual artwork	Lucasfilm,owner of,Star Wars	?e_6302,part of the series,Star Wars,series ordinal,2	?e_6302,title,Der Aufenthalt	no
+?e_6314,instance of,city	?e_6314,native label,Paramaribo	?e_6314,official website,http://www.peterborough.gov.uk/	no
+?e_6349,instance of,human	?e_6349,found,Geffen Records	?e_6349,Munzinger IBA,00000029874	no
+Boca Juniors,Twitter username,BocaJrsOficial	yes
+All That Jazz,title,Star Wars: Episode V – The Empire Strikes Back	no
+?e_6374,instance of,university	?e_6374,located in the administrative territorial entity,Queensland	?e_6374,official website,https://www.qut.edu.au/	yes
+?e_6390,instance of,sovereign state	?e_6390,demonym,sudcoreano	?e_6390,ISO 3166-1 numeric code,516	no
+geology,Dewey Decimal Classification,551	yes
+crown prince,Iconclass notation,43C2113	no
+?e_6442,instance of,association football club	?e_6442,named after,Harrogate	?e_6442,official website,http://www.harrogatetown.com	yes
+ska,name in kana,ビービーシー ニューズ	no
+?e_6479,instance of,human	?e_6479,nominated for,Academy Award for Best Actress,for work,The Hustler	?e_6479,ISNI,0000 0001 1694 6042	no
+?e_6482,instance of,historical country	Seoul,located in the administrative territorial entity,?e_6482	?e_6482,native label,Paris	no
+Julie Walters,official website,http://www.cher.com	no
+?e_6488,instance of,association football club	?e_6488,headquarters location,Monterrey	?e_6488,Twitter username,HeartsOfOakGH	no
+Andy Warhol,Google Doodle,leonhard-eulers-306th-birthday	no
+Steve Oedekerk,official website,http://mpophotohost.com/~mposystems/filehost/oedework/index.html	yes
+?e_6528,instance of,human	?e_6528,official website,http://lindaperry.com/	?e_6528,Twitter username,sridevibkapoor	no
+The Jacket,title,The Merry Widow	no
+?e_6564,instance of,film	?e_6564,costume designer,Mitchell Leisen	?e_6564,film poster,Douglas Fairbanks Robin Hood 1922 film poster.jpg	yes
+Brooklyn Law School,postal code,98213	no
+Jorge Luis Borges,name in native language,Jorge Luis Borges	yes
+mountaineering,IPTC Newscode,mediatopic/20000704	no
+?e_6663,instance of,human	The Firm,creator,?e_6663	The Firm,narrative location,Washington and D.C.	?e_6663,official website,http://www.ah.gov.cn	no
+?e_6686,instance of,human	?e_6686,ISNI,0000 0001 0918 2128	?e_6686,Deutsche Synchronkartei actor-ID,2740	yes
+?e_6725,instance of,band	?e_6725,official website,http://www.countingcrows.com/	?e_6725,Twitter username,CBRangel	no
+John Davis,occupation,pianist	John Davis,ISNI,0000 0004 0664 5731	no
+?e_6750,instance of,city of Pennsylvania	?e_6750,local dialing code,878	?e_6750,postal code,16803	no
+?e_6782,instance of,visual artwork	?e_6782,official website,http://www.shinealightmovie.com/	?e_6782,title,Shine a Light	yes
+?e_6797,instance of,human	?e_6797,ISNI,0000 0001 1445 0107	?e_6797,Twitter username,Socceroos	no
+?e_6810,instance of,human	Gigi,cast member,?e_6810	?e_6810,Deutsche Synchronkartei actor-ID,4467	no
+Howard Hughes,name in native language,Howard Hughes	yes
+?e_6821,instance of,human	?e_6821,ISNI,0000 0000 4075 0720	?e_6821,Twitter username,BrannonBraga	no
+Chrono Crusade,official website,http://www.stockportcounty.com/	no
+?e_6866,instance of,human	?e_6866,Twitter username,johnmturturro	?e_6866,Munzinger IBA,00000022075	no
+2007 NFL Draft,official website,https://teamcoco.com/	no
+Compton,Dewey Decimal Classification,211.7	no
+Florence,PermID,5035742632	Florence,local dialing code,(+32) 16	no
+?e_6913,instance of,written work	Interview with the Vampire,based on,?e_6913	Interview with the Vampire,screenwriter,Anne Rice	?e_6913,ISBN-10,0-394-49821-6	yes
+Zhang Yimou,Libris-URI,gdsvz3502mqxs13	yes
+Montmartre Cemetery,postal code,93755	no
+?e_6955,instance of,human	?e_6955,CANTIC-ID,a1097233x	?e_6955,birth name,Lindsay Dee Lohan	yes
+?e_6970,instance of,public company	?e_6970,located at street address (DEPRECATED),Three Lakes Drive Northfield and Illinois 60093 and USA	?e_6970,official website,http://cormacmccarthy.com/	no
+?e_6973,instance of,medicine	?e_6973,Iconclass notation,49G6131	?e_6973,IPTC Newscode,mediatopic/20001055	no
+Game of Thrones,official website,http://www.hbo.com/game-of-thrones	Game of Thrones,subreddit,classicalmusic	no
+?e_7042,instance of,human	?e_7042,birth name,Jerry 'Wonda' Duplessis	?e_7042,ISNI,0000 0000 4361 9306	yes
+?e_7051,instance of,animated feature film	?e_7051,exploitation visa number,124895	?e_7051,official website,http://www.astroboy-themovie.com	yes
+Williamsburg,Dewey Decimal Classification,2--63	no
+?e_7130,instance of,Christianity	?e_7130,name in kana,ふくいんは	?e_7130,OSM tag or key,Tag:denomination=evangelical	yes
+?e_7144,instance of,university	?e_7144,IPv4 routing prefix,130.237.88.0/21	?e_7144,motto text,Concordia Salus	no
+James Poyser,ISNI,0000 0000 3670 9717	yes
+?e_7194,instance of,college of the University of Oxford	?e_7194,official website,http://www.merton.ox.ac.uk/	yes
+classical music,IPTC Newscode,mediatopic/20000022	yes
+?e_7264,instance of,language	South Africa,official language,?e_7264	?e_7264,Glottolog code,aust1309	no
+?e_7311,instance of,human	Young Frankenstein,producer,?e_7311	?e_7311,Libris-URI,khw07s030mmbfkc	yes
+?e_7316,instance of,human	?e_7316,name in native language,今村昌平	?e_7316,CANTIC-ID,a1057637x	yes
+?e_7324,instance of,film	?e_7324,producer,Anurag Kashyap	?e_7324,official website,http://www.rushhour3.fr/	no
+University of Windsor,ISNI,0000 0004 1936 9596	yes
+Broadcast Film Critics Association Award for Best Actress,official website,http://www.indepmo.org	no
+?e_7344,instance of,visual artwork	?e_7344,main subject,Greek mythology	?e_7344,title,Finding Neverland	no
+?e_7357,instance of,written work	?e_7357,genre,autobiography	?e_7357,title,Changeling	yes
+Greg Graffin,ISNI,0000 0001 0949 2003	no
+artificial intelligence,ACM Classification Code (2012),10011245	no
+Sarah Polley,official website,http://www.sarahpolley.org/	yes
+?e_7384,instance of,city	North Vietnam,capital,?e_7384	?e_7384,WOEID,63817	no
+Order of Saint Michael and Saint George,native label,The Most Distinguished Order of St. Michael and St. George	yes
+Cedar Rapids,cast member,Anne Heche	Cedar Rapids,title,Cedar Rapids	yes
+?e_7434,instance of,visual artwork	?e_7434,executive producer,Michael Tollin	?e_7434,title,Hannah Montana: The Movie	no
+?e_7438,instance of,human	?e_7438,official website,http://www.morrisseyofficial.com/	?e_7438,Twitter username,officialmoz	yes
+Shannen Doherty,ISNI,0000 0004 0405 8859	no
+?e_7485,instance of,city	Novak Djokovic,residence,?e_7485,country,Serbia	?e_7485,pronunciation audio,LL-Q150 (fra)-GrandCelinien-Tours.wav	no
+?e_7519,instance of,human	Wild Wild West,director,?e_7519	?e_7519,ISNI,0000 0001 1478 5978	yes
+Greg Kinnear,ISNI,0000 0000 5471 4149	no
+?e_7579,instance of,human	?e_7579,ISNI,0000 0000 8161 1372	?e_7579,Twitter username,bill_fichtner	yes
+?e_7581,instance of,television station	?e_7581,headquarters location,Silver Spring,located at street address,One Discovery Place	?e_7581,official website,http://www.santosfc.com.br/	no
+?e_7586,instance of,visual artwork	?e_7586,country of origin,Lithuania	?e_7586,title,Julia	yes
+Tamil,IAB code,1186	yes
+?e_7598,instance of,private university	Alicia Keys,educated at,?e_7598	?e_7598,located at street address,The School House	no
+Stalag 17,title,Eternal Sunshine of the Spotless Mind	no
+Rosie O'Donnell,official website,http://www.rosie.com	yes
+?e_7629,instance of,symptom	cholera,symptoms,?e_7629	?e_7629,ICD-10,R	yes
+?e_7630,instance of,land-grant university	Keenen Ivory Wayans,educated at,?e_7630	?e_7630,official website,http://www.tuskegee.edu	yes
+Chesterfield F.C.,official name,Chesterfield Football Club	yes
+Another Year,official website,http://www.wvu.edu/	no
+Freddie Prinze,ethnic group,Irish Americans	Freddie Prinze,name in native language,井上和彦	no
+?e_7654,instance of,Academy Awards ceremony	?e_7654,followed by,66th Academy Awards	?e_7654,edition number,46	no
+?e_7658,instance of,human	?e_7658,movement,alternative rock	?e_7658,IPI name number,00125325501	no
+?e_7661,instance of,American football team	?e_7661,Twitter username,Vikings	?e_7661,official website,http://www.ingmarbergman.se/	no
+?e_7669,instance of,human	?e_7669,ISNI,0000 0001 1574 3454	?e_7669,official website,http://www.lornemichaels.com/	no
+?e_7687,instance of,county of Oregon	?e_7687,named after,Andrew Jackson	Andrew Jackson,British Museum person-institution,93312	?e_7687,official website,http://www.juanmata10.com/	no
+Colin Powell,military branch,United States Army	Colin Powell,ISNI,0000 0001 2284 3621	no
+?e_7745,instance of,visual artwork	Wonder Woman,present in work,?e_7745	Wonder Woman,occupation,astronaut	?e_7745,title,Big Love	no
+?e_7755,instance of,human	?e_7755,name in native language,বিদ্যা বালান	?e_7755,Twitter username,jhutch1992	no
+?e_7771,instance of,free software license	?e_7771,short name,GNU LGPL	?e_7771,official website,http://www.att.com	no
+Asteras Tripoli F.C.,Instagram username,scorpions	no
+?e_7795,instance of,visual artwork	?e_7795,official website,http://constantinemovie.warnerbros.com/	?e_7795,title,Constantine	yes
+?e_7817,instance of,organization	?e_7817,PermID,5000448942	?e_7817,ISNI,0000 0004 0627 1848	yes
+Bristol Rovers F.C.,nickname,Οι πειρατές	yes
+?e_7854,instance of,agent	Mobile Suit Gundam SEED Destiny,original network,?e_7854	?e_7854,PermID,4297147125	no
+?e_7905,instance of,business	?e_7905,ISNI,0000 0001 2179 3677	?e_7905,official website,http://www.rajacasablanca.com	no
+Marvel Comics,official website,http://larrymillerhumor.com/	no
+?e_7929,instance of,human	?e_7929,ISNI,0000 0001 1307 8008	?e_7929,name in native language,Nandamuri Taraka Rama Rao	yes
+?e_7936,instance of,city	Wolverhampton Wanderers F.C.,headquarters location,?e_7936	?e_7936,WOEID,40859	yes
+Maureen Stapleton,Deutsche Synchronkartei actor-ID,31428	yes
+26th Academy Awards,edition number,66	no
+Genesis,original language of film or TV show,Hindi	Genesis,official website,https://www.warnerbros.com/unknown	no
+Al Roker,Twitter username,IrishEmbJapan	no
+?e_8038,instance of,human	?e_8038,Instagram username,adamlevine	?e_8038,Twitter username,MaggieGrace	no
+Baku,postal code,91200	no
+?e_8049,instance of,human	?e_8049,notable work,Beloved	Beloved,ISBN-10,1-58060-120-0	?e_8049,birth name,Richard John Thompson	no
+Star Trek: The Animated Series,title,Heavy Metal	no
+?e_8087,instance of,association football club	?e_8087,headquarters location,Jeddah	?e_8087,official name,City of Toronto	no
+Dakota Fanning,Instagram username,robzombieofficial	no
+Inception,official website,https://www.warnerbros.com/inception	yes
+?e_8197,instance of,city of the United States	Seine-et-Marne,twinned administrative body,?e_8197	?e_8197,Giphy username,jeffersonairplane	no
+?e_8229,instance of,profession	John Stephenson,occupation,?e_8229	John Stephenson,manner of death,natural causes	?e_8229,SOC Code (2010),29-1067	yes
+Peter Facinelli,official website,https://www.canterbury.gov.uk/	no
+?e_8241,instance of,human	?e_8241,Twitter username,bruces	?e_8241,official website,http://www.neiljordan.com/	no
+ABS-CBN (TV Network),official website,http://www.abs-cbn.com/	yes
+?e_8266,instance of,town	?e_8266,WOEID,37818	?e_8266,TOID,4000000074555832	yes
+The Witches of Eastwick,OCLC control number,10183130	The Witches of Eastwick,ISBN-13,978-0-395-38949-2	no
+?e_8289,instance of,human	?e_8289,CANTIC-ID,a10038486	?e_8289,Libris-URI,86lnpgfs38q0gs4	yes
+?e_8290,instance of,media franchise	?e_8290,characters,Son Goku	?e_8290,official website,http://db30th.com/	yes
+?e_8299,instance of,association football club	?e_8299,official website,http://www.chivasdecorazon.com.mx	?e_8299,Twitter username,LiberalPH	no
+Bruges,local dialing code,135	no
+?e_8352,instance of,human	?e_8352,ISNI,0000 0001 1441 9281	?e_8352,name in native language,Meryl Streep	no
+?e_8360,instance of,human	?e_8360,place of birth,Amsterdam	Amsterdam,official name,Amsterdam	?e_8360,British Museum person-institution,210104	no
+?e_8367,instance of,non-metropolitan county	Cambridgeshire,different from,?e_8367	Northamptonshire,shares border with,Cambridgeshire	?e_8367,GSS code (2011),S12000030	no
+?e_8392,instance of,human	?e_8392,KLfG Critical Dictionary of foreign contemporary literature,18000000309	?e_8392,official website,http://www.bryanbros.com/	no
+?e_8398,instance of,association football club	?e_8398,Twitter username,sufcofficial	?e_8398,Instagram username,abcmodernfam	no
+Dir en grey,official website,http://www.direngrey.co.jp	yes
+?e_8423,instance of,human	?e_8423,nominated for,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,for work,Ray Donovan	?e_8423,Munzinger IBA,00000021814	no
+Frederick II of Prussia,BMLO,h1701	yes
+Japanese,ISO 639-5 code,jpx	yes
+Yugoslavia,official name,Sporting Kansas City	no
+Parliament of Canada,ISNI,0000 0001 0730 0709	yes
+Kassel,licence plate code,57	no
+?e_8540,instance of,social group	?e_8540,has part,House of Windsor	?e_8540,official website,http://www.sachsen-coburg-gotha.de/	yes
+?e_8544,instance of,band	?e_8544,ISNI,0000 0001 1240 2443	?e_8544,official website,http://www.adele.com	no
+Bologna F.C. 1909,official website,https://www.bolognafc.it/	yes
+?e_8606,instance of,human	?e_8606,educated at,University of Strathclyde	?e_8606,official website,http://abc.go.com/primetime/pushingdaisies/index	no
+?e_8618,instance of,human	esophageal cancer,notable people with this condition,?e_8618	?e_8618,name in native language,George Bernard Shaw	no
+Christ Church,IPv4 routing prefix,129.234.0.0/16	no
+?e_8641,instance of,basketball team	?e_8641,official website,http://www.nba.com/rockets/	?e_8641,subreddit,PEI	no
+Phil Collinson,ISNI,0000 0000 7246 2061	yes
+Freetown,Dewey Decimal Classification,2--7982	no
+?e_8673,instance of,visual artwork	?e_8673,exploitation visa number,127904	?e_8673,official website,http://www.chargers.com	no
+Jonathan Swift,British Museum person-institution,162123	no
+?e_8694,instance of,college of the University of Cambridge	Oliver Cromwell,educated at,?e_8694	?e_8694,ARCHON code,277	yes
+?e_8702,instance of,association football club	?e_8702,Instagram username,gfcofficial	?e_8702,Twitter username,thegillsfc	yes
+Van Morrison,Libris-URI,20dghpwl18w4tz7	no
+African Development Bank,ISNI,0000 0004 1794 1384	yes
+?e_8736,instance of,written work	?e_8736,derivative work,About a Boy	About a Boy,nominated for,BAFTA Award for Best Adapted Screenplay	?e_8736,title,About a Boy	yes
+Southwest Airlines,callsign of airline,SOUTHWEST	yes
+?e_8749,instance of,class of instruments	Nelson Riddle,instrument,?e_8749	?e_8749,Hornbostel-Sachs classification,423.22	yes
+Scorpions,Twitter username,officialasroma	no
+?e_8792,instance of,basketball team	?e_8792,official website,http://www.nba.com/warriors/	?e_8792,subreddit,warriors	yes
+Alexander,Dictionary of Medieval Names from European Sources entry,Alexander	Alexander,Caverphone,ANTSN1	no
+?e_8831,instance of,product	?e_8831,pronunciation audio,Fr-viande bovine.ogg,language of work or name,French	?e_8831,MCN code,1702.40.10	no
+Windsor County,FIPS 6-4 (US counties),50027	yes
+?e_8861,instance of,visual artwork	?e_8861,official website,http://www.sonyclassics.com/orlando/	?e_8861,exploitation visa number,100436	no
+Duran Duran,Twitter username,duranduran	yes
+Politecnico di Milano,Instagram username,dbacks	no
+?e_8888,instance of,human	?e_8888,CANTIC-ID,a11092075	?e_8888,Twitter username,richardbranson	yes
+?e_8896,instance of,human	?e_8896,ISNI,0000 0003 6859 3263	?e_8896,Munzinger IBA,00000025699	yes
+?e_8925,instance of,association football club	?e_8925,headquarters location,Veracruz	Veracruz,official website,http://www.veracruzmunicipio.gob.mx/	?e_8925,Twitter username,ClubTiburones	yes
+?e_8939,instance of,neighborhood	Charlie Daniels,place of birth,?e_8939	Charlie Daniels,place of death,Boston	?e_8939,postal code,46244	no
+Imogen Heap,Instagram username,dodgers	no
+Frosinone Calcio,official website,http://www.madtv.com/	no
+Iron Man,film release region,Denmark	Iron Man,review score,79/100,review score by,Metacritic	yes
+?e_8986,instance of,organization	?e_8986,ISIN,GB00B7KR2P84	?e_8986,Twitter username,easyJet	yes
+Satellite Awards 2010,edition number,15	yes
+?e_9022,instance of,human	?e_9022,British Museum person-institution,22698	?e_9022,name in native language,Gilbert Keith Chesterton	yes
+?e_9051,instance of,human	?e_9051,Google Doodle,robert-schumanns-200th-birthday	?e_9051,CANTIC-ID,a11056496	no
+?e_9089,instance of,university	?e_9089,official website,http://www.sva.edu	?e_9089,ISNI,0000 0001 0983 4464	no
+June Allyson,birth name,Kristin Scott Thomas	no
+Icon Productions,official website,http://www.iconmovies.com/	yes
+?e_9117,instance of,non-metropolitan district	?e_9117,TOID,7000000000014002	?e_9117,motto text,Дъжд	no
+?e_9142,instance of,human	?e_9142,birth name,Olvido Gara Jova	?e_9142,official website,http://www.fangoria.es/	yes
+?e_9174,instance of,human	?e_9174,notable work,SpongeBob SquarePants	?e_9174,ISNI,0000 0000 7980 4298	no
+Lloyd Bridges,birth name,Lloyd Vernet Bridges	yes
+?e_9243,instance of,human	?e_9243,ISNI,0000 0001 1067 7304	?e_9243,name in native language,Ulysses S. Grant	no
+David Wain,official website,http://www.davidwain.com/	yes
+?e_9305,instance of,human	?e_9305,Twitter username,SelmaBlair	?e_9305,ISNI,0000 0001 2184 7583	no
+?e_9308,instance of,state of the United States	Brandeis University,located in the administrative territorial entity,?e_9308	?e_9308,British Museum person-institution,112023	yes
+?e_9333,instance of,human	?e_9333,official website,http://www.manbow.com/	?e_9333,name in native language,Virginia Madsen	no
+?e_9352,instance of,first-level administrative country subdivision	?e_9352,NUTS code,AT33	?e_9352,official website,http://www.eaglecounty.us	no
+?e_9445,instance of,region of Italy	?e_9445,native label,Campagnia	?e_9445,demonym,Engländerin,applies to part,feminine singular	no
+?e_9461,instance of,television series	?e_9461,cast member,Harry Andrews	?e_9461,title,Dynasty	yes
+Imelda Staunton,ISNI,0000 0001 1507 2400	yes
+Slaughterhouse-Five,production designer,Henry Bumstead	Slaughterhouse-Five,title,Slaughterhouse-Five	yes
+?e_9475,instance of,state of India	?e_9475,FIPS 10-4 (countries and regions),IN23	?e_9475,ISO 3166-2 code,GB-LEC	no
+Tuvalu national football team,official website,http://www.derrystrabane.com/	no
+William Joyce,award received,84th Academy Awards	William Joyce,Libris-URI,fcrv206z18s5pwb	no
+?e_9489,instance of,human	?e_9489,award received,Filmfare Award for Best Director,for work,Sangam	?e_9489,ISNI,0000 0000 7841 7210	yes
+WALL·E,title,Gigi	no
+Hampshire College,ISNI,0000 0001 0863 4436	no
+Zhang Ziyi,name in native language,章子怡	yes
+?e_9562,instance of,university	Benjamin Bratt,educated at,?e_9562	?e_9562,ISNI,0000 0004 1936 9676	yes
+Jacob Gedleyihlekisa Zuma,Twitter username,avfcofficial	no
+?e_9594,instance of,human	?e_9594,place of birth,York	York,country,United States of America	?e_9594,official website,http://www.fremontcountywy.org	no
+Don Siegel,educated at,Jesus College	Jesus College,ARCHON code,2703	yes
+?e_9652,instance of,human	?e_9652,place of birth,Waukesha,located in the administrative territorial entity,Wisconsin	?e_9652,ISNI,0000 0001 1677 9459	yes
+?e_9689,instance of,state of India	Tamil,located in the administrative territorial entity,?e_9689	?e_9689,ISNI,0000 0001 2101 6472	no
+New Hampshire's 1st congressional district,subreddit,NewHampshire1st	yes
+Medina,official website,http://www.amana-md.gov.sa/	Medina,Dewey Decimal Classification,364	no
+?e_9703,instance of,higher education institution	?e_9703,headquarters location,Liverpool	Liverpool,NUTS code,UKD72	?e_9703,IPv6 routing prefix,2001:630:22::/48	no
+?e_9725,instance of,association football club	?e_9725,official website,https://www.bscyb.ch/,language of work or name,German	?e_9725,Twitter username,lcfc	no
+Stockton-on-Tees,local dialing code,01642	Stockton-on-Tees,TOID,4000000074559324	yes
+?e_9759,instance of,city	?e_9759,capital of,Albania	?e_9759,ISNI,0000 0001 2023 7011	no
+Susannah York,ISNI,0000 0001 1471 4707	yes
+David Foster,educated at,Australian National University	David Foster,ISNI,0000 0001 2100 6418	no
+James Wong,ISNI,0000 0000 7364 9645	no
+?e_9789,instance of,association football club	?e_9789,official website,https://newells-store.com	?e_9789,Instagram username,huuhkajat	no
+?e_9791,instance of,human	?e_9791,Munzinger IBA,00000018022	?e_9791,ISNI,0000 0001 1598 280X	yes
+horror literature,short name,łacina	no
+?e_9849,instance of,county of Ireland	?e_9849,licence plate code,WW	?e_9849,ISO 3166-2 code,IE-WW	yes
+?e_9853,instance of,human	The Young Victoria,cast member,?e_9853,character role,John Russell and 1st Earl Russell	?e_9853,ISNI,0000 0003 6863 8628	no
+?e_9861,instance of,human	?e_9861,residence,Cork	?e_9861,Munzinger IBA,00000018201	no
+University of Auckland,motto text,Ingenio et labore	yes
+Church of Scotland,OSM tag or key,Tag:denomination=church_of_scotland	yes
+Swarthmore College,DOI prefix,10.18695	no
+?e_9976,instance of,human	?e_9976,name in native language,William Cameron Menzies	?e_9976,ISNI,0000 0001 2127 2329	no
+Golden Globe Award for Best Screenplay,official website,http://www.goldenglobes.com	yes
+Samuel Goldwyn,Munzinger IBA,00000003348	yes
+Rush,genre,neo-noir	Rush,title,Young Adam	no
+Kosi Zone,ISO 3166-2 code,JP-08	no
+?e_10159,instance of,rock band	?e_10159,official website,http://www.thepolice.com/	?e_10159,ISNI,0000 0001 2254 0380	no
+?e_10173,instance of,human	?e_10173,ISNI,0000 0000 7839 7432	?e_10173,birth name,Kimberly Noel Kardashian	no
+?e_10211,instance of,human	?e_10211,Twitter username,BAM__MARGERA	?e_10211,official website,https://www.bamargera.com	yes
+?e_10245,instance of,film	?e_10245,cast member,Brian De Palma	?e_10245,official website,http://www.theblackdahliamovie.net/	yes
+?e_10263,instance of,human	?e_10263,official website,http://www.sammydavis-jr.com/	?e_10263,ISNI,0000 0001 2280 0760	yes
+1984 Winter Olympics,official website,http://www.harlanellison.com/	no
+Kathleen Turner,ISNI,0000 0001 0938 2306	no
+?e_10305,instance of,human	Grey's Anatomy,creator,?e_10305	?e_10305,ISNI,0000 0001 1692 3924	yes
+Tarzan,voice actor,Lance Henriksen	Tarzan,official website,http://www.sonypictures.com/movies/deucebigaloweuropeangigolo/index.html	no
+?e_10328,instance of,band	?e_10328,genre,baroque pop	?e_10328,Giphy username,panicatthedisco	yes
+StudioCanal,official website,http://www.studiocanal.com/	yes
+?e_10353,instance of,ceremonial county of England	?e_10353,GSS code (2011),E11000005	?e_10353,official website,http://www.historyx.com	no
+?e_10379,instance of,human	?e_10379,ISNI,0000 0000 8136 122X	?e_10379,birth name,Joseph Hill Whedon	no
+Grammy Award for Best Rap/Sung Performance,native label,Scots leid	no
+?e_10389,instance of,television series	?e_10389,cast member,Pete Postlethwaite	?e_10389,title,Alicia en el país de las maravillas,place of publication,Spain	yes
+Lost,genre,science fiction	science fiction,IAB code,652	yes
+Tripoli,twinned administrative body,Tashkent	Tripoli,official name,طرابلس	yes
+Mel Gibson,ISNI,0000 0001 1474 6266	Mel Gibson,Munzinger IBA,00000019828	yes
+Andrea Romano,country of citizenship,United States of America	Andrea Romano,ISNI,0000 0001 1494 3892	no
+Dave Goelz,ISNI,0000 0000 7783 3239	yes
+French cuisine,OSM tag or key,Tag:sport=american_football	no
+?e_10547,instance of,city	?e_10547,Dewey Decimal Classification,2--43841	?e_10547,pronunciation audio,Panathinaikos.oga	no
+?e_10548,instance of,belief system	?e_10548,OSM tag or key,Tag:religion=jewish	?e_10548,IPTC Newscode,mediatopic/20000679	yes
+?e_10567,instance of,animated feature film	?e_10567,title,How to Train Your Dragon	?e_10567,official website,http://eugene.pfull.com/	no
+?e_10618,instance of,chess piece	film,properties for this type,?e_10618	?e_10618,Portable Game Notation,N	yes
+Art Carney,award received,47th Academy Awards	Art Carney,ISNI,0000 0001 2280 4497	no
+?e_10631,instance of,city	?e_10631,postal code,IV2	?e_10631,local dialing code,1463	yes
+?e_10657,instance of,human	?e_10657,ISNI,0000 0003 6859 3263	?e_10657,CANTIC-ID,a12013250	no
+?e_10680,instance of,human	?e_10680,CANTIC-ID,a11858576	?e_10680,official website,http://www.olivianewton-john.com	yes
+?e_10688,instance of,human	?e_10688,ISNI,0000 0001 2130 0449	?e_10688,British Museum person-institution,37710	yes
+Marcia Gay Harden,Twitter username,torontofc	no
+Truro,WOEID,35398	no
+?e_10795,instance of,university	?e_10795,located in the administrative territorial entity,Rochester	Rochester,Dewey Decimal Classification,2--74788	?e_10795,official website,http://www.jimmypage.com/	no
+?e_10803,instance of,county of Pennsylvania	Bryn Mawr,located in the administrative territorial entity,?e_10803	?e_10803,ISNI,0000 0004 0412 1475	yes
+ADO Den Haag,official website,https://adodenhaag.nl/	yes
+?e_10821,instance of,occupation	Carmen Electra,occupation,?e_10821	?e_10821,official website,http://www.playmates.com/	yes
+?e_10834,instance of,human	?e_10834,nominated for,Broadcast Film Critics Association Award for Best Supporting Actor,for work,Master and Commander: The Far Side of the World	?e_10834,ISNI,0000 0001 1470 3215	yes
+My Neighbor Totoro,official website,http://movies.disney.com/my-neighbor-totoro	yes
+?e_10864,instance of,human	?e_10864,official website,http://www.terencestamp.com	?e_10864,ISNI,0000 0001 0625 0420	no
+?e_10867,instance of,award	?e_10867,part of,Grammy Award	?e_10867,official website,http://www.grammy.com/	yes
+?e_10883,instance of,profession	?e_10883,ISCO occupation code,2164	?e_10883,SBC-2010 occupation code,870228	no
+?e_10940,instance of,human	?e_10940,official website,http://deborahannwoll.net	?e_10940,name in native language,Harold Gould	no
+?e_10965,instance of,human	?e_10965,official website,http://www.serkis.com	?e_10965,ISNI,0000 0001 1519 6278	no
+Anthony Quayle,ISNI,0000 0000 3877 466X	no
+?e_11000,instance of,human	?e_11000,ISNI,0000 0001 0901 1820	?e_11000,birth name,Christopher Brian Bridges	no
+?e_11002,instance of,province of China	?e_11002,China administrative division code,44	?e_11002,FIPS 10-4 (countries and regions),GV	no
+Kathryn Bigelow,ISNI,0000 0001 1679 7585	no
+University of the Philippines,ISNI,0000 0001 1490 6477	no
+Fargo,cast member,Ted Danson	Fargo,title,Arizona	no
+?e_11050,instance of,human	Iron Man,screenwriter,?e_11050	Iron Man,film release region,South Africa	?e_11050,CANTIC-ID,a12101126	yes
+ACF Fiorentina,Twitter username,violachannel	yes
+?e_11134,instance of,human	?e_11134,Libris-URI,b8nqr97v5gcr5qw	?e_11134,ISNI,0000 0001 2130 8723	yes
+?e_11162,instance of,departments of France	?e_11162,Dewey Decimal Classification,2--4472	?e_11162,official website,http://www.helloproject.com/morningmusume/	no
+?e_11196,instance of,human	?e_11196,CANTIC-ID,a12192946	?e_11196,ISNI,0000 0001 0869 4391	yes
+?e_11199,instance of,human	?e_11199,ISNI,0000 0003 6854 3848	?e_11199,Libris-URI,53hlpqwp4csd9fj	no
+?e_11214,instance of,university	?e_11214,postal code,40292-0001	?e_11214,located at street address,1928 Saint Marys Road and Moraga and CA and 94575	no
+Claude Debussy,Google Doodle,46th-anniversary-of-star-treks-1st-broadcast	no
+?e_11231,instance of,university	?e_11231,PermID,5001215517	?e_11231,ISNI,0000 0001 2299 4243	yes
+?e_11293,instance of,political ideology	anti-communism,opposite of,?e_11293	?e_11293,pronunciation audio,Ja-nihon(日本).ogg	no
+?e_11311,instance of,human	?e_11311,educated at,University of Tasmania	?e_11311,Twitter username,MosDefOfficial	no
+?e_11333,instance of,film	?e_11333,official website,http://www.meetthefockers.com/	?e_11333,title,Meet the Fockers	yes
+?e_11340,instance of,human	?e_11340,official website,http://www.laurenbacall.com	?e_11340,name in native language,Lauren Bacall	yes
+Dr. Seuss,name in native language,Joshua Malina	no
+?e_11368,instance of,visual artwork	?e_11368,derivative work,The Longest Yard	The Longest Yard,cast member,Cloris Leachman	?e_11368,title,劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ	no
+Hollywood Walk of Fame,official website,http://www.diwan.gov.qa/	no
+Wilmer Valderrama,Twitter username,cwru	no
+Oliver Twist,title,Oliver Twist; or and The Parish Boy's Progress	Oliver Twist,last line,But and in spite of these deficiencies and the wishes and the hopes and the confidence and the predictions of the small band of true friends who witnessed the ceremony and were fully answered in the perfect happiness of the union.	no
+John Denver,Instagram username,johndenvermusic	yes
+Muse,Instagram username,jonfavreau	no
+Muskegon,WOEID,2456611	yes
+?e_11548,instance of,film	?e_11548,cast member,Roy Orbison	?e_11548,title,She's Having a Baby	yes
+To Kill a Mockingbird,film release region,France	To Kill a Mockingbird,title,The Fairly OddParents	no
+Hellas Verona F.C.,official website,https://www.jnj.com	no
+?e_11621,instance of,human	?e_11621,partner,Matt Dillon	?e_11621,Munzinger IBA,00000014585	no
+?e_11629,instance of,human	?e_11629,ISNI,0000 0000 7100 6267	?e_11629,Munzinger IBA,00000025249	yes
+Great Britain,ISO 3166-2 code,FR-77	no
+?e_11640,instance of,human	?e_11640,award received,London Film Critics Circle Award for Actress of the Year,for work,King Kong	?e_11640,Twitter username,SandraBernhard	no
+?e_11655,instance of,region of Italy	Province of Naples,located in the administrative territorial entity,?e_11655	?e_11655,demonym,mauritana,applies to part,feminine singular	no
+?e_11754,instance of,human	melodic death metal,famous people,?e_11754	?e_11754,official website,http://www.brendonsmall.com	yes
+?e_11756,instance of,human	?e_11756,award received,Caldecott Medal,for work,Where the Wild Things Are	?e_11756,Libris-URI,sq468r1b0m8d5g4	no
+?e_11766,instance of,higher education institution	?e_11766,ISNI,0000 0004 0472 3804	?e_11766,postal code,08629	no
+?e_11776,instance of,higher education institution	?e_11776,official website,http://www.belmont.edu	?e_11776,ISNI,0000 0000 8544 9536	yes
